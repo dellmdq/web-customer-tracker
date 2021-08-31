@@ -1,4 +1,5 @@
 # web-customer-tracker
 Basic Database Web App - Spring MCV and Hibernate Project.
-Todo:
+
+\nTodo:
 1) Sorting List
